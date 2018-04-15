@@ -1,5 +1,5 @@
 GFX = {}
-CAMERA = {x=48,y=0,r=0, w=320,h=320 }
+CAMERA = {x=48,y=0,r=0, w=950,h=500 }
 
 function DRAWMAP(objects)
     local renderByLayers = {}

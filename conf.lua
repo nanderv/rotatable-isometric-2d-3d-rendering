@@ -4,6 +4,6 @@ function love.conf(t)
 	t.console  = false
 
 	t.window.title  = "Vox-to-Model Converter"
-	t.window.width  = 640
-	t.window.height = 640
+	t.window.width  = 1900
+	t.window.height = 1000
 end
